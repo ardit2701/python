@@ -1,0 +1,21 @@
+.tittle {
+    background-color: black;
+    color: rgb(249, 249, 246);
+    font-size: 50px;
+    margin-bottom: 2px;
+}
+.projects{
+    background-color: blueviolet; 
+    color: rgb(253, 254, 255);
+    text-align: center;
+    padding: 10px; 
+    margin-bottom: 2px;
+}
+ 
+.contact{
+    background-color: rgb(156, 204, 244);
+    color: black;
+    text-align: end;
+    text-decoration: underline;
+    padding: 5px;
+}
